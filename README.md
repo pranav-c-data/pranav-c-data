@@ -1,4 +1,4 @@
-# Hi, I'm [Pranav C] 👋
+# Hi, I'm Pranav C 👋
 
 ### Data Analyst | Power BI | SQL | Excel
 
@@ -13,11 +13,17 @@ I’m an aspiring Data Analyst passionate about transforming data into meaningfu
 
 ## 📂 Featured Projects
 
-🔹 **Amazon Product Sales Analysis**
-Power BI dashboard analyzing product sales, revenue, customer ratings and performance.
+🔹 **Pizza Sales Analysis**
+Analyzed pizza sales data to identify sales trends, best-selling products, customer preferences and key business performance metrics using SQL and Power BI.
 
-🔹 **[Your Next Project]**
-Coming soon...
+🔹 **Hospital Emergency Room Analysis**
+Analyzed emergency room data to understand patient trends, admission patterns, wait times and overall hospital performance using Power BI.
+
+🔹 **Finance Transaction Analysis**
+Analyzed financial transaction data to uncover spending patterns, transaction trends and key financial insights through interactive dashboards.
+
+🔹 **Amazon Product Sales Analysis**
+Analyzed Amazon product sales data to evaluate product performance, sales trends, customer ratings and key business KPIs using Power BI.
 
 ## 📊 What I Do
 
