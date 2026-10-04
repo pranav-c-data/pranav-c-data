@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm [Pranav C] 👋
 
-<!--
-**pranav-c-data/pranav-c-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Power BI | SQL | Excel
 
-Here are some ideas to get you started:
+I’m an aspiring Data Analyst passionate about transforming data into meaningful insights and interactive dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+
+* 📊 **Power BI** — Data visualization, dashboards, DAX
+* 🗄️ **SQL** — Data querying and analysis
+* 📈 **Microsoft Excel** — Data cleaning, analysis and reporting
+* 🧹 **Data Analysis** — Data cleaning, transformation and visualization
+
+## 📂 Featured Projects
+
+🔹 **Amazon Product Sales Analysis**
+Power BI dashboard analyzing product sales, revenue, customer ratings and performance.
+
+🔹 **[Your Next Project]**
+Coming soon...
+
+## 📊 What I Do
+
+* Clean and transform raw data
+* Analyze datasets to identify trends and patterns
+* Build interactive Power BI dashboards
+* Create meaningful KPIs and visualizations
+* Turn business questions into data-driven insights
+
+## 📫 Connect With Me
+
+* 💼 **Portfolio:** [Add your portfolio link here]
+* 🔗 **LinkedIn:** [Add your LinkedIn link here]
+* 📧 **Email:** [Add your email here]
+
+---
+
+⭐ Feel free to explore my repositories and projects!
