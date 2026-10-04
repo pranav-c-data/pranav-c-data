@@ -39,10 +39,9 @@ Analyzed Amazon product sales data to evaluate product performance, sales trends
 
 ## 📫 Connect With Me
 
-* 💼 **Portfolio:** [Add your portfolio link here]
-* 🔗 **LinkedIn:** [Add your LinkedIn link here]
-* 📧 **Email:** [Add your email here]
-
+* 💼 **Portfolio:** 
+* 🔗 **LinkedIn:** 
+* 📧 **Email:** 
 ---
 
 ⭐ Feel free to explore my repositories and projects!
