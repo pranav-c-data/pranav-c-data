@@ -4,12 +4,16 @@
 
 I’m an aspiring Data Analyst passionate about transforming data into meaningful insights and interactive dashboards.
 
+---
+
 ## 🛠️ Skills & Tools
 
 * 📊 **Power BI** — Data visualization, dashboards, DAX
 * 🗄️ **SQL** — Data querying and analysis
 * 📈 **Microsoft Excel** — Data cleaning, analysis and reporting
 * 🧹 **Data Analysis** — Data cleaning, transformation and visualization
+
+---
 
 ## 📂 Featured Projects
 
@@ -29,6 +33,8 @@ Analyzed financial transaction data to uncover spending patterns, transaction tr
 
 Analyzed Amazon product sales data to evaluate product performance, sales trends, customer ratings and key business KPIs using Power BI.
 
+---
+
 ## 📊 What I Do
 
 * Clean and transform raw data
@@ -37,11 +43,14 @@ Analyzed Amazon product sales data to evaluate product performance, sales trends
 * Create meaningful KPIs and visualizations
 * Turn business questions into data-driven insights
 
+---
+
 ## 📫 Connect With Me
 
 * 💼 **Portfolio:** 
 * 🔗 **LinkedIn:** 
-* 📧 **Email:** 
+* 📧 **Email:**
+
 ---
 
 ⭐ Feel free to explore my repositories and projects!
